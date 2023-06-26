@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+pypdf = "*"
+openai = "*"
+tiktoken = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
