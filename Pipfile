@@ -9,6 +9,7 @@ pypdf = "*"
 openai = "*"
 tiktoken = "*"
 faiss-cpu = "*"
+argparse = "*"
 
 [dev-packages]
 
